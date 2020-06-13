@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试搜索功能</title>
+      <link href="/gitee_blog3/2020/06/13/%E6%B5%8B%E8%AF%95%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD/"/>
+      <url>/gitee_blog3/2020/06/13/%E6%B5%8B%E8%AF%95%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD/</url>
+      
+        <content type="html"><![CDATA[<p>该文章没有什么内容，纯粹是为了测试搜索功能，哈哈哈哈哈哈哈！！！！！@@@@@@</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搜素 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端框架之活学活用</title>
+      <link href="/gitee_blog3/2020/06/13/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
+      <url>/gitee_blog3/2020/06/13/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</url>
+      
+        <content type="html"><![CDATA[<p>Angular vs. React vs. Vue 五年後的今天<br>2010年10月 AngularJS 誕生。<br>2013年5月 React.js 第一版對外發佈。<br>2014年2月 Vue.js 問世。<br>2016年9月 Angular 2 正式發表final GA版本。<br>話說前端框架天下大勢，原先是 Angular 與 React 的世紀爭霸。自從2014年Vue問世以來，前端框架呈現了三雄鼎立的局面。時間來到2019，五年的時光匆匆過去。這三人到底孰優孰劣，該是有個答案了吧？ (引用 Google Trends)</p><p>死亡交叉<br> 近年來最紅的框架，還是非React莫屬！ 原本是Angular一家獨大的局面，在2017年中發生了死亡交叉，React迎頭趕上。之後React聲勢繼續一路上漲，到今日聲勢已經是Angular的3倍。後起新秀的Vue也愈來愈熱門，目前已經快要拚上Angular了！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> css </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/gitee_blog3/2020/06/13/hello-world/"/>
+      <url>/gitee_blog3/2020/06/13/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> matery </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>java springboot</title>
+      <link href="/gitee_blog3/2020/06/13/java-springboot/"/>
+      <url>/gitee_blog3/2020/06/13/java-springboot/</url>
+      
+        <content type="html"><![CDATA[<p> DAO 层的测试我这里采用的是 HSQLDB 的内存数据库，最好准备一些初始化的数据表结构和脚本，当然也可用直接通过官方示例的 JPA特性和 API 代码来初始化数据。这里我还是通过脚本的方式来做，便于统一管理和维护表结构和数据。</p><p>在 src/test 目录下新建 resources 资源目录，并在 resources 目录下新建 db 目录，在 db 目录下分别，新建用于管理的表结构文件(schema.sql)和初始化数据文件(data.sql)的 SQL 脚本。</p><p>schema.sql 文件中的内容如下：</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> java框架 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
