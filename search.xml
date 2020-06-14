@@ -29,31 +29,6 @@
     
     
     <entry>
-      <title>前端框架之活学活用</title>
-      <link href="/2020/06/13/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
-      <url>/2020/06/13/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</url>
-      
-        <content type="html"><![CDATA[<p>Angular vs. React vs. Vue 五年後的今天<br>2010年10月 AngularJS 誕生。<br>2013年5月 React.js 第一版對外發佈。<br>2014年2月 Vue.js 問世。<br>2016年9月 Angular 2 正式發表final GA版本。<br>話說前端框架天下大勢，原先是 Angular 與 React 的世紀爭霸。自從2014年Vue問世以來，前端框架呈現了三雄鼎立的局面。時間來到2019，五年的時光匆匆過去。這三人到底孰優孰劣，該是有個答案了吧？ (引用 Google Trends)</p><p>死亡交叉<br> 近年來最紅的框架，還是非React莫屬！ 原本是Angular一家獨大的局面，在2017年中發生了死亡交叉，React迎頭趕上。之後React聲勢繼續一路上漲，到今日聲勢已經是Angular的3倍。後起新秀的Vue也愈來愈熱門，目前已經快要拚上Angular了！</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 前端 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> css </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2020/06/13/hello-world/"/>
       <url>/2020/06/13/hello-world/</url>
@@ -71,6 +46,31 @@
         <tags>
             
             <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端框架之活学活用</title>
+      <link href="/2020/06/13/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
+      <url>/2020/06/13/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</url>
+      
+        <content type="html"><![CDATA[<p>Angular vs. React vs. Vue 五年後的今天<br>2010年10月 AngularJS 誕生。<br>2013年5月 React.js 第一版對外發佈。<br>2014年2月 Vue.js 問世。<br>2016年9月 Angular 2 正式發表final GA版本。<br>話說前端框架天下大勢，原先是 Angular 與 React 的世紀爭霸。自從2014年Vue問世以來，前端框架呈現了三雄鼎立的局面。時間來到2019，五年的時光匆匆過去。這三人到底孰優孰劣，該是有個答案了吧？ (引用 Google Trends)</p><p>死亡交叉<br> 近年來最紅的框架，還是非React莫屬！ 原本是Angular一家獨大的局面，在2017年中發生了死亡交叉，React迎頭趕上。之後React聲勢繼續一路上漲，到今日聲勢已經是Angular的3倍。後起新秀的Vue也愈來愈熱門，目前已經快要拚上Angular了！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> css </tag>
             
         </tags>
       
